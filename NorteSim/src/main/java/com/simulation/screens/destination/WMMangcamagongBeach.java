@@ -1,0 +1,61 @@
+package com.simulation.screens.destination;
+
+public class WMMangcamagongBeach {
+    public static void main(String[] args) {
+
+	}
+	
+	public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");        
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  ████████████████████████████████████████████████████████████████████████████████████████████████                                                  ██");
+        System.out.println("██                                                ███                                                                                             ███                                                 ██");
+        System.out.println("██                                               ███                                                                                               ███                                                ██");
+        System.out.println("██                                               ███                              M A N G C A M A G O N G  B E A C H                               ███                                                ██");
+        System.out.println("██                                               ███                                                                                               ███                                                ██");
+        System.out.println("██                                                ███                                                                                             ███                                                 ██");
+        System.out.println("██                                                  ████████████████████████████████████████████████████████████████████████████████████████████████                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                              CONTINUE                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}

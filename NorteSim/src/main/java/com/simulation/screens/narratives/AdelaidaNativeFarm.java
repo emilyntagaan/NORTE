@@ -1,0 +1,61 @@
+package com.simulation.screens.narratives;
+
+public class AdelaidaNativeFarm {
+    public static void main(String[] args) {
+
+    }
+
+    public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                A D E L A I D A  N A T I V E  F A R M                                                                               ██");
+        System.out.println("██                                                                                  San Lorenzo Ruiz, Camarines Norte                                                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     Adelaida Native Farm and  Painuman Baka Mountain Resort  is located in  Barangay Matacong,                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     San Lorenzo Ruiz,  Camarines Norte, approximately  16 kilometers from Daet.  The resort is                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     set in  a lush,  natural landscape, offering  a peaceful and  serene atmosphere  ideal for                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     relaxation. It features a range of amenities designed to provide guests with a comfortable                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     and immersive  experience in  nature.  The area is  known for its  rich biodiversity, with                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     various  native plants and  wildlife that  contribute to the  local ecosystem.  The resort                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     promotes sustainable farming practices  and conservation efforts,  focusing on  preserving                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     the  environment.  Visitors can  explore  scenic views,  enjoy  walks through  the natural                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     surroundings, and experience the tranquil ambiance of the area.                                                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                R (Restart)                                                M (End)                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}

@@ -1,0 +1,61 @@
+package com.simulation.screens.narratives;
+
+public class SenoraDeCandelaria {
+    public static void main(String[] args) {
+
+	}
+	
+	public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                            P A R R O Q U I A  D E  N U E S T R A  S E Ñ O R A  D E  C A N D E L A R I A                                                            ██");
+        System.out.println("██                                                                                     Paracale, Camarines Norte                                                                                      ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 The Parroquia de Nuestra Señora de Candelaria, also known as the Parish of Our Lady of Candelaria,                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 is a historic Roman Catholic church  located in Paracale, Camarines Norte.  Established in 1611 by                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 Franciscan  missionaries,  it stands  as the  oldest church  in the province  and is a significant                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 cultural landmark.  The church is  dedicated to Our Lady of Candelaria,  a revered image  believed                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 to possess miraculous powers.  The statue is a de vestir type,  featuring a wooden body with ivory                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 heads and hands,  making it a unique and  treasured religious artifact.  Over the years,  devotees                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 have offered crowns, stars, and other vestments, further enhancing the statue’s beauty. The church                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 remains a focal point for local worship and tradition,  drawing visitors who are interested in its                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 rich history and spiritual significance in the region.                                                                                             ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                R (Restart)                                                M (End)                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}

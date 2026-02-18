@@ -1,0 +1,61 @@
+package com.simulation.screens.narratives;
+
+public class BagasbasBeach {
+    public static void main(String[] args) {
+
+	}
+	
+	public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                     B A G A S B A S   B E A C H                                                                                    ██");
+        System.out.println("██                                                                                        Daet, Camarines Norte                                                                                       ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 Bagasbas Beach, located in Daet, Camarines Norte, is famous for its consistent waves,  making it a                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 top destination for surfers of all levels.  The beach has a long,  wide stretch of fine gray sand,                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 providing plenty of space  for various activities  such as  picnics and  beach sports.  It is also                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 connected to the  longest boulevard in the Philippines,  the Bagasbas Boulevard,  which  stretches                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 along the  coastline.  The boulevard offers  a stunning view  of the ocean,  making it  a favorite                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 location for jogging, biking, and leisurely walks while enjoying the fresh sea breeze. The beach’s                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 tranquil atmosphere  and beautiful surroundings  make it an ideal place for relaxation and outdoor                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 fun. The combination of great waves and scenic view draws both surfers and nature lovers. Bagasbas                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 Beach remains a popular destination  for visitors seeking a mix of adventure and relaxation,  with                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 the added charm of the picturesque boulevard stretching nearby.                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                R (Restart)                                                M (End)                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}

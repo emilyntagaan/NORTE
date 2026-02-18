@@ -1,0 +1,61 @@
+package com.simulation.screens.narratives;
+
+public class MangcamagongBeach {
+    public static void main(String[] args) {
+
+	}
+	
+	public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                 M A N G C A M A G O N G  B E A C H                                                                                 ██");
+        System.out.println("██                                                                                       Basud, Camarines Norte                                                                                       ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                    Mangcamagong Beach, located in the peaceful town of Basud in Camarines Norte, is a hidden gem                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                    offering a serene coastal experience. The beach boasts fine, golden sand that stretches along                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                    the coastline,  providing a  soft cushion  underfoot for  relaxation. With  several amenities                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                    available, the beach features cottages, restrooms, and roadside eateries at affordable prices                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                    to ensure a  comfortable visit.  Fishermen rely  San Miguel Bay,  for fishing activities  and                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                    trade with  neighboring  cities  like Mercedes.  The quiet  surroundings  provide  a peaceful                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                    atmosphere,  making it an ideal spot for unwinding  and enjoying nature.  Visitors can stroll                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                    along the  shoreline or  simply relax,  taking in  the beauty  of the  scenic coastline while                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                    enjoying the laid-back vibe of the area.                                                                                                        ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                R (Restart)                                                M (End)                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}

@@ -1,0 +1,61 @@
+package com.simulation.screens.narratives;
+
+public class Bantayog {
+    public static void main(String[] args) {
+
+	}
+	
+	public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                    F I R S T  M O N U M E N T  O F  R I Z A L / B A N T A Y O G                                                                    ██");
+        System.out.println("██                                                                                       Daet, Camarines Norte                                                                                        ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                The First Jose Rizal Monument, located in Daet, Camarines Norte,  holds the distinction of being the                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                earliest memorial erected  in honor of the national hero, Dr. Jose Rizal.  Initiated on December 30,                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                1898,  the groundbreaking ceremony coincided  with the first observance of Rizal Day,  as decreed by                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                then  President Emilio Aguinaldo.  This monument was constructed  by Filipino revolutionaries led by                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                Lt. Col. Antonio Sanz  and  Ildefonso Alegre  to honor Rizal,  the greatest  of Filipino heroes.  It                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                was completed in February 1899,  making it the oldest surviving  Rizal monument in the country.  The                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                monument stands as a testamen t to the profound legacy of Dr. Jose Rizal  and the  Filipino people's                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                deep respect and admiration  for his contribution to the nation’s freedom.  It remains a significant                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                historical landmark,  drawing visitors who wish to pay tribute  to the national hero and  learn more                                                ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                about the early stages of Philippine independence.                                                                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                R (Restart)                                                M (End)                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}

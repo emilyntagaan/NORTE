@@ -1,0 +1,61 @@
+package com.simulation.screens.narratives;
+
+public class Turayog {
+    public static void main(String[] args) {
+
+	}
+	
+	public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                            T U R A Y O G                                                                                           ██");
+        System.out.println("██                                                                                  Jose Panganiban, Camarines Norte                                                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 Turayog View Deck  is a popular tourist attraction  in Jose Panganiban,  Camarines Norte.  Located                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 in  Barangay Luklukan Norte,  the view deck offers  a stunning  360-degree  panoramic  view of the                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 town,  including the expansive Bulalacao Beach and the Pacific Ocean. T he view deck is accessible                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 through a series of steps carved into the mountain, providing a rewarding experience for those who                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 make the ascent.  The hike combines physical activity  with the opportunity  to enjoy breathtaking                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 serene views from the top. This destination attracts adventure seekers looking for a challenge and                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 photographers eager to capture the beauty of the surrounding landscape. The view deck is a perfect                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 spot to relax  and take in the natural beauty  of Jose Panganiban  and its coastline.  It offers a                                                 ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                 peaceful escape while rewarding visitors with unforgettable scenic vistas.                                                                         ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                R (Restart)                                                M (End)                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}

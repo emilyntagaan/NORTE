@@ -1,0 +1,61 @@
+package com.simulation.screens.narratives;
+
+public class TanAwangBato {
+    public static void main(String[] args) {
+
+	}
+	
+	public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                     T A N - A W A N G   B A T O                                                                                    ██");
+        System.out.println("██                                                                                        Labo, Camarines Norte                                                                                       ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                Tan-awang Bato,  a captivating  historical site  located in  Labo,  Camarines Norte,  is a remarkable                                               ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                rock formation  that stands as a  stunning natural wonder  and cultural landmark.  The name Tan-awang                                               ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                Bato translates to  \"viewing rock,\"  offering panoramic views  of the surrounding landscapes,  making                                               ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                it an ideal spot for sightseeing and photography. The site has long been a gathering place for locals                                               ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                and  visitors alike,  known for its  breathtaking vistas  and  tranquil atmosphere.  Steeped in local                                               ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                folklore,  it is believed  to have been  a lookout point  during the  Spanish colonial period.  Early                                               ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                inhabitants used the vantage point to monitor their surroundings  and  protect their communities from                                               ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                potential threats.  Today,  Tan-awang Bato remains a symbol  of the region's rich heritage,  offering                                               ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                both historical significance and natural beauty.                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                R (Restart)                                                M (End)                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}

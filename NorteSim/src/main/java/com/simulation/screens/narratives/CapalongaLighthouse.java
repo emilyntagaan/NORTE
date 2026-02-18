@@ -1,0 +1,61 @@
+package com.simulation.screens.narratives;
+
+public class CapalongaLighthouse {
+    public static void main(String[] args) {
+
+	}
+	
+	public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                               C A P A L O N G A  L I G H T H O U S E                                                                               ██");
+        System.out.println("██                                                                                     Capalonga, Camarines Norte                                                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  The Capalonga Lighthouse  is a notable landmark  located along  the town's baywalk in Capalonga,                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  Camarines Norte.  This modern  lighthouse structure,  adorned with the town's name,  stands as a                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  testament to  Capalonga's  rich  maritime  heritage.  Its presence  highlights  the  town's deep                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  connection to the sea  and its fishing community.  The lighthouse not only serves as a symbol of                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  local identity but also enhances the town's appeal as a travel destination,  drawing visitors to                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  explore its beauty and culture.  Capalonga's natural landscapes  and  cultural events complement                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  the lighthouse,  making it a must-see attraction  for those visiting the area.  Local businesses                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  thrive,  catering to the growing number of tourists  attracted by the lighthouse and surrounding                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  scenery. The Capalonga Lighthouse remains an enduring symbol of the town's heritage and maritime                                                  ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                  pride.                                                                                                                                            ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                R (Restart)                                                M (End)                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}

@@ -1,0 +1,61 @@
+package com.simulation.screens.narratives;
+
+public class StFrancis {
+    public static void main(String[] args) {
+
+	}
+	
+	public void display() {
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                              S A I N T  F R A N C I S  O F  A S S I S I  O F  P A R I S H  C H U R C H                                                             ██");
+        System.out.println("██                                                                                      Talisay, Camarines Norte                                                                                      ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     The St. Francis of Assisi Parish Church is a prominent Catholic church located in Talisay,                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     Camarines Norte.  The church is part of the  Diocese of Daet and is under the Vicariate of                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     St. Peter. As a significant religious and cultural landmark, the church reflects Talisay’s                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     rich history  and  deep-rooted  faith.  Over the years,  the church  has  hosted important                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     community events, including fiestas, pabasa (Lenten chants), and simbang gabi (dawn Mass),                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     which  are  central to  Talisay’s cultural  and  religious life.  The  church's  beautiful                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     architecture adds to its historical charm,  making it an iconic site  for both worshippers                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     and visitors. It remains an essential part of the town’s identity, reflecting its enduring                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     traditions.  Visitors to the church  can experience the deep sense  of history, faith, and                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                     community.                                                                                                                                     ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                R (Restart)                                                M (End)                                                                                              ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                   █████████████████████████████████████                    █████████████████████████████████████                                                   ██");
+        System.out.println("██                                               ████████                          ████████████          ████████████                          ████████                                               ██");
+        System.out.println("██                                                                                           ██████████████                                                                                           ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("██                                                                                                                                                                                                    ██");
+        System.out.println("████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████");
+    }
+}
